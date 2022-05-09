@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/LEGO/Scenes/Level 2.unity
     guid: e59fc6482cb8f0c4085b12028c19f89a
+  - enabled: 1
+    path: Assets/AddOns/MgLEGO Santas Brickshop/Scenes/Santas Brickshop.unity
+    guid: acace2a4b11ba4ac98fa2c83830e2d55
   m_configObjects: {}
