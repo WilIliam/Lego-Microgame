@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5855290581167824619}
   - component: {fileID: 1118258156211871577}
   - component: {fileID: 7391199567690823833}
-  - component: {fileID: 4153785008143841673}
+  - component: {fileID: 8900358234642912292}
   m_Layer: 0
   m_Name: Game Manager
   m_TagString: Untagged
@@ -49,9 +49,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19378a82782f7b24886431ea6722d0e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_WinScene: Menu Win
+  m_WinScene: Level 2
   m_WinSceneDelay: 5
-  m_LoseScene: Menu Lose
+  m_LoseScene: Level 2
   m_LoseSceneDelay: 3
   m_StartGameLockedControllerTimer: 0.3
 --- !u!114 &5637490896662931210
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6cecb617de53427fa1f14800329efdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &4153785008143841673
+--- !u!114 &8900358234642912292
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
